@@ -6,7 +6,9 @@ The following code represents the web application of Pizza Parlour, a Nairobi ba
 
  The following is the demo user interface of the landing page. 
 
-![Pizza Place](./img/)
+ ![PizzaPlace](./img/pizza-parlour-reference.jpeg)
+
+<!-- ![Pizza Place](./img/pizza parlour reference.png) -->
 
 ## Setup/Installation Requirements
 The landing page has no setup/ installation requirements needed. The landing page can be accessed via any browser. The code is also independent of any app. 
